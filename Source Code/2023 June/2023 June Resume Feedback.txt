@@ -1,0 +1,23 @@
+Photo is optional
+Headline for computer science student
+Put the contact details up there, with email, phone number, and current address
+Likely put the linked in & github when you get to it
+- Current Objective is optional since I am still a student. Typically it promotes your best achievement in your professional life. Usually details who you are, what is your best achievement, and when you are avaliable to work. If you are unable to write it, omit this and focus on other content.
+- Soft skills are open to criticisims. Stuff like photoshop is hard skills. When it comes to soft skills, you don't list them, instead describing them in your experiencing. Remove the powerbar level because it means nothing to the recruiters.
+In programming languages, don't say beginner. If you know a little bit about it, just list it down. Even if you are just learning about it. If you are confident in it, add. If you are not confident, don't add it. If I finished learning it then I can add. Some of the languages you are not comfortable with should be omitted.
+- When listing education in resume, list the most recent one first. Linux first then cinema modelling.
+- Right now, I'm trying to do infographic which is okay but takes a lot of space. Should be fine but 3.7 and im in year 1 second term. For Nottingham, employer side is more interested in my university year for education. Sept 2021 to Expected date of graduation, not current. Put the relevant modules maximum up to 5 optimally 3. Any academic project
+- Under experience, don't just list down the role but what we achieved. If the client used it for commercial or views, showcase it. Put linux first and cinema afterwards, and do bulletpoints typically 3. First 2 is role in the project and what is the result of the project. How m,any people in the server and what problems you solve with the team. Role and result.
+Language can be combined. Put english native and list hindi and thai under proficient in hearing. Still can put but honestly tell them during the interview.
+Qualifications (the abilities) can be put under achievement. This is where the experience is needed. Instead of infographic, write as the robot will detect first not the human. It looks nice but the ats can not detect.
+
+Mumma:
+Mom is developer, so show github or linked in.
+Since she is a senior, then tell mummy she is experienced so she can keep it within two pages and describe more. She can also add languages (like hindi and thai) and add projects worked on.
+Most of the time, she lists role. What makes a good resume is the achievements. What happens duriong the workflow, does it improve production costs, what you do in the role and what is the result of the role.
+Skills is fine, but whenever she submits the resume to the employer consider the job description and see what they want to meet the expectations.
+Can seperate education and certifications. Education is more forman education like university and such. 
+Tell mumma be careful with grammar as K2 Certified may be wrong (idk) as they assume you are not good with detail.
+Professional certification falls under professional development.
+Post graduate is either master or such, so try to list any projects can also be added in education.
+Most of it is good, just be more impactful with content.
